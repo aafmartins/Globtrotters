@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- one
+- [Catarina](github.com/anaresende)
 - ...
