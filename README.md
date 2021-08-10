@@ -5,7 +5,7 @@
 
 ## People:
 ### Teaching team:
-- Marco
+- [Marco](github.com/marco-ih-bcn)
 - Yanis
 
 ### Students
