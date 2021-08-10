@@ -9,5 +9,4 @@
 - Yanis
 
 ### Students
-- one
-- ...
+- [Jessé]( github.com/JesseVermeulen123 )
