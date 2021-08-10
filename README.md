@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- one
+- [Osvaldo] (https://github.com/OsvaldoPicazo)
 - ...
