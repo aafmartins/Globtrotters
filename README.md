@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- one
+- [Juandi] (github.com/JuandiM)
 - ...
