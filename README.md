@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- one
+- [Mathijs van Ginneken] (github.com/Mathijsvanginneken)
 - ...
