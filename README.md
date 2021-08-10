@@ -9,5 +9,5 @@
 - Yanis
 
 ### Students
-- [Alex]
+- [Alex](https://github.com/AlexVascon/Globtrotters/edit/main/README.md)
 - ...
