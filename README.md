@@ -11,4 +11,4 @@
 ### Students
 - one
 - ...
-- [Cooper](Coops023)
+- [Cooper](https://github.com/Coops023)
