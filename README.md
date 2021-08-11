@@ -9,6 +9,7 @@
 - Yanis
 
 ### Students
+- [Mathijs van Ginneken] (github.com/Mathijsvanginneken)
 - [Catarina](github.com/anaresende)
 - [Juandi] (github.com/JuandiM)
 - [Alex](https://github.com/AlexVascon/Globtrotters/edit/main/README.md)
