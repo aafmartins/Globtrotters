@@ -9,6 +9,7 @@
 - Yanis
 
 ### Students
+- [Monika](github.com/monikageiger)
 - [Mathijs van Ginneken] (github.com/Mathijsvanginneken)
 - [Catarina](github.com/anaresende)
 - [Juandi] (github.com/JuandiM)
