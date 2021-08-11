@@ -9,6 +9,7 @@
 - Yanis
 
 ### Students
+- [Flavian Alber](https://github.com/Hribu)
 - [Jessé]( github.com/JesseVermeulen123 )
 - [Monika](github.com/monikageiger)
 - [Mathijs van Ginneken] (github.com/Mathijsvanginneken)
