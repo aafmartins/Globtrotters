@@ -9,6 +9,7 @@
 - Yanis
 
 ### Students
+- [Catarina](github.com/anaresende)
 - [Juandi] (github.com/JuandiM)
 - [Alex](https://github.com/AlexVascon/Globtrotters/edit/main/README.md)
 - [Cooper](https://github.com/Coops023)
