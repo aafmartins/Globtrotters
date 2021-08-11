@@ -5,9 +5,16 @@
 
 ## People:
 ### Teaching team:
-- Marco
+- [Marco](github.com/marco-ih-bcn)
 - Yanis
 
 ### Students
 - [Osvaldo](https://github.com/OsvaldoPicazo)
-- ...
+- [Flavian Alber](https://github.com/Hribu)
+- [Jessé]( github.com/JesseVermeulen123 )
+- [Monika](github.com/monikageiger)
+- [Mathijs van Ginneken] (github.com/Mathijsvanginneken)
+- [Catarina](github.com/anaresende)
+- [Juandi] (github.com/JuandiM)
+- [Alex](https://github.com/AlexVascon/Globtrotters/edit/main/README.md)
+- [Cooper](https://github.com/Coops023)
