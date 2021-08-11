@@ -5,9 +5,10 @@
 
 ## People:
 ### Teaching team:
-- Marco
+- [Marco](github.com/marco-ih-bcn)
 - Yanis
 
 ### Students
 - [Juandi] (github.com/JuandiM)
-- ...
+- [Alex](https://github.com/AlexVascon/Globtrotters/edit/main/README.md)
+- [Cooper](https://github.com/Coops023)
